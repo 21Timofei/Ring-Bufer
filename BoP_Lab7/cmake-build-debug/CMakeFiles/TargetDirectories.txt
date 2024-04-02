@@ -1,0 +1,3 @@
+/Users/timofejverhososov/BoP_Lab7/cmake-build-debug/CMakeFiles/BoP_Lab7.dir
+/Users/timofejverhososov/BoP_Lab7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/timofejverhososov/BoP_Lab7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
